@@ -2,7 +2,7 @@
 ## Instalção
  1 - Copie a pasta do plugin para o caminho wp-content/plugin de sua aplicação Wordpress.
  
- 2 - Acesse os plugins e ative o plugin.
+ 2 - Acesse o menu "plugins" do wordpress e ative o plugin.
 ## Modifique a rota de sua API
 Acesse o arquivo comments_sent.php e modifique a variável base_url para o endereço de sua API.
 ## Visualização
