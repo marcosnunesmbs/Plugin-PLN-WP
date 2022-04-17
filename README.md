@@ -1,3 +1,3 @@
-#API e Plugin para Análise de Sentimentos
+# API e Plugin para Análise de Sentimentos
 
 Acesse cada projeto e leia as instruções
