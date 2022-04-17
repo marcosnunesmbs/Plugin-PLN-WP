@@ -16,7 +16,8 @@ function show_analize() {
     // }
     global $post;
     $curreent_post = $post->ID;
-    $url = "http://127.0.0.1:5000/analize/".$curreent_post;
+    $base_url = "http://127.0.0.1:5000";
+    $url = $base_url . "/analize/".$curreent_post;
 
     $curl = curl_init($url);
     curl_setopt($curl, CURLOPT_URL, $url);
